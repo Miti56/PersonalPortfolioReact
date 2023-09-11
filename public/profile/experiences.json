@@ -1,33 +1,49 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Repair Technician",
+            "subtitle": "Titan Computers",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Work diagnosing and repairing problems in a software and hardware level to all range of electronics"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "11/2021 – 07/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Summer Analyst",
+            "subtitle": "Cardumen Capital",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Internship in a venture capital focused on high tech markets and companies with deep technologies."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "06/2021 – 08/2021"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Assistant",
+            "subtitle": "Minty Host",
+            "workType": "Full-Time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "I welcomed the guests to his new home, did a quick overview of the city and answered questions."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2019 – 09/2019"
+        },
+        {
+            "title": "Student Intern",
+            "subtitle": "Bonsai Venture Capital SCR",
+            "workType": "Internship",
+            "workDescription": [
+                "Internship in a venture capital focused on high tech markets and companies with deep technologies."
+            ],
+            "dateText": "05/2016 – 06/2016"
+        },
+        {
+            "title": "Student Intern",
+            "subtitle": "Monereo Meyer Abogados",
+            "workType": "Internship",
+            "workDescription": [
+                "School ran internships"
+            ],
+            "dateText": "05/2016 – 06/2016"
         }
     ]
 }
