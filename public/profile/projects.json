@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "",
             "title": "Dev Portfolio",
             "bodyText": "- Modified Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
@@ -17,98 +17,132 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "",
+            "title": "Acoustic Key Logger",
+            "bodyText": "- The application can analyze a given audio recording for key press sounds.\n -  Using advanced sound processing algorithms, it's capable of identifying individual key presses and their timings.\n - Application has an easy-to-use and visually pleasing user interface, simplifying the user interaction.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Miti56/Accoustic-Key-Logger"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Machine-Learning",
+                "Audio",
+                "Sound Recognition",
+                "CNN"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "",
+            "title": "Chrome-Web-Extensions-Security-Checker",
+            "bodyText": "- Website that allows to analyse the properties of a browser extension\n - Supports legacy extensions\n - Allows visualisation of the risks of an extension without installing",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Miti56/Chrome-Web-Extensions-Security-Checker"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "HTML",
+                "JavaScript",
+                "CSS",
+                "PHP",
+                "SQL",
+                "Security"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "title": "Wellbeing-Exeter-App",
+            "bodyText": "- A project to help students connect with their peers during online and blended learning, promoting student community through the gamification of engagement.\n - This application is structured as a forum, allowing students to engage in discussions with their peers and a way to incentivise students to go to lectures and participate in the community by providing points that will contribute to a leaderboard placement.\n ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/Miti56/Wellbeing-Exeter-App"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "ReLearn-Android-App",
+            "bodyText": "- An Android App that allows the user to use the phone on a brand new way\n - Less time spend on the phone by having only the essentials\n",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/Miti56/ReLearn-Android-App"
                 }
             ],
             "tags" : [
                 "Kotlin",
                 "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
+                "Zen",
+                "Java",
                 "Flow",
-                "Hilt-Dagger",
+                "AndroidStudio",
                 "NetworkBoundResource"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "YouTube Channel Analyzer",
+            "bodyText": "- Python script that leverages the YouTube Data API to provide insights into your subscribed channels and your viewing habits.\n - Helps you identify the channels you watch the most and the least, assisting you in deciding which channels to unsubscribe from. \n",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/Miti56/YoutubeChannelUnsubscribe"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Python"
+            ]
+        },
+        {
+            "title": "fuzzer-Py",
+            "bodyText": "- Fuzzer using Python\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Miti56/fuzzer-Py"
+                }
+            ],
+            "tags" : [
+                "Bandit",
+                "Cyber-security"
+            ]
+        },
+        {
+            "title": "Custom Bandit Plugin",
+            "bodyText": "- Bandit plugin to detect credit card information with a specific pattern\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Miti56/Bandit-Plugin"
+                }
+            ],
+            "tags" : [
+                "Bandit",
+                "Cyber-security"
+            ]
+        },
+        {
+            "title": "Smart-Alarm-Flask",
+            "bodyText": "- Simple website with alarm integration\n - Api use to get the news and weather information\n - Options to create and access notes locally",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Miti56/Smart-Alarm-Flask"
+                }
+            ],
+            "tags" : [
+                "Flask",
+                "Web",
+                "HTML",
+                "CSS"
             ]
         },
         {
@@ -127,18 +161,17 @@
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "title": "GoLang Alexa",
+            "bodyText": "- Alexa like features using go lang.\n - Text to speech.\n -Use API to gather information to provide answers to the questions",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/Miti56/GoLang"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
+                "GoLang",
+                "API",
                 "Cryptography"
             ]
         }
